@@ -4,13 +4,13 @@
             "date": "2026-09-13T17:21:46.230Z",
             "collection": {
                 "ctaUrl": "https://calendar.app.google/n2paHL9uFyRtexAa8",
-                "isCtaActive": true,
+                "isCtaActive": false,
                 "brandColor": "#30005f",
                 "badgeText": "Hey!",
                 "widgetType": "storie_rectangle",
                 "ctaText": "Converse com a gente",
                 "status": "ACTIVE",
-                "isBadge": true,
+                "isBadge": false,
                 "videos": [
                     "https://media.vidy.store/vidcomerce/public/Video%20by%20benvinatural%20[DdXGAFdSang]/Video%20by%20benvinatural%20[DdXGAFdSang].mp4"
                 ],
