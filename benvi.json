@@ -12,7 +12,7 @@
                 "status": "ACTIVE",
                 "isBadge": true,
                 "videos": [
-                    "https://media.vidy.store/vidcomerce/public/video-otimizado-hd/video-otimizado-hd.mp4"
+                    "https://media.vidy.store/vidcomerce/public/Video%20by%20benvinatural%20[DdXGAFdSang]/Video%20by%20benvinatural%20[DdXGAFdSang].mp4"
                 ],
                 "collectionId": "home",
                 "instanceId": "2549c73e-4c0b-476e-b7b4-ldklei343j45j",
@@ -46,12 +46,12 @@
                             "key": "6de04489-f13f-4862-8130-078fc1fdc679",
                             "media": {
                                 "videoId": "6de04489-f13f-4862-8130-078fc1fdc679",
-                                "thumbnailLoading": "https://cdn.vidy.store/6de04489-f13f-4862-8130-078fc1fdc679/thumbnail.jpg",
+                                "thumbnailLoading": "",
                                 "gifs": [
-                                    "https://cdn.vidy.store/6de04489-f13f-4862-8130-078fc1fdc679/preview.webp"
+                                    ""
                                 ],
                                 "videos": [
-                                    "https://media.vidy.store/vidcomerce/public/video-otimizado-hd/video-otimizado-hd.mp4"
+                                    "https://media.vidy.store/vidcomerce/public/Video%20by%20benvinatural%20[DdXGAFdSang]/Video%20by%20benvinatural%20[DdXGAFdSang].mp4"
                                 ]
                             },
                             "status": "ACTIVE",
@@ -61,12 +61,12 @@
                             "key": "9ed5ef1d-08d8-4f87-8035-26b46f425e83",
                             "media": {
                                 "videoId": "9ed5ef1d-08d8-4f87-8035-26b46f425e83",
-                                "thumbnailLoading": "https://cdn.vidy.store/9ed5ef1d-08d8-4f87-8035-26b46f425e83/thumbnail.jpg",
+                                "thumbnailLoading": "",
                                 "gifs": [
-                                    "https://cdn.vidy.store/9ed5ef1d-08d8-4f87-8035-26b46f425e83/preview.webp"
+                                    ""
                                 ],
                                 "videos": [
-                                    "https://media.vidy.store/vidcomerce/public/video-otimizado-hd/video-otimizado-hd.mp4"
+                                    "https://media.vidy.store/vidcomerce/public/video-produto-benvi/video-produto-benvi.mp4"
                                 ]
                             },
                             "status": "ACTIVE",
