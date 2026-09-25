@@ -81,7 +81,7 @@
                     "primaryColor": "#a17401",
                     "secondaryColor": "#ffffff",
                     "storieCloseColor": "#000000ff",
-                    "storieColor": "Custom",
+                    "storieColor": "borderColor",
                     "storieSize": "Large"
                 },
                 "nameCollection": "Categorias",
