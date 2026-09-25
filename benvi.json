@@ -81,17 +81,17 @@
                     "primaryColor": "#000000ff",
                     "secondaryColor": "#ffffff",
                     "storieCloseColor": "#000000ff",
-                    "storieColor": "noBorder",
-                    "storieSize": "Small"
+                    "storieColor": "Default",
+                    "storieSize": "Large"
                 },
                 "nameCollection": "Categorias",
                 "date": "2026-08-28T02:16:21.570Z",
                 "analytics": [],
                 "position": {
-                    "direction": "SUPERIOR_LEFT",
+                    "direction": "INFERIOR_RIGHT",
                     "directionMobile": "INFERIOR_RIGHT",
-                    "marginX": 36.05,
-                    "marginXMobile": 24,
+                    "marginX": 3,
+                    "marginXMobile": 3,
                     "marginY": 8.81,
                     "marginYMobile": 32
                 },
