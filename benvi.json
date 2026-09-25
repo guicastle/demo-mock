@@ -78,10 +78,10 @@
                 "status": "ACTIVE",
                 "customStyleTemplate": {
                     "model": "circle",
-                    "primaryColor": "#000000ff",
+                    "primaryColor": "#a17401",
                     "secondaryColor": "#ffffff",
                     "storieCloseColor": "#000000ff",
-                    "storieColor": "Default",
+                    "storieColor": "Custom",
                     "storieSize": "Large"
                 },
                 "nameCollection": "Categorias",
@@ -92,7 +92,7 @@
                     "directionMobile": "INFERIOR_RIGHT",
                     "marginX": 3,
                     "marginXMobile": 3,
-                    "marginY": 8.81,
+                    "marginY": 3,
                     "marginYMobile": 32
                 },
                 "widgetType": "storie"
