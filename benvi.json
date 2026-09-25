@@ -1,0 +1,156 @@
+{
+    "data": [
+        {
+            "date": "2026-09-13T17:21:46.230Z",
+            "collection": {
+                "ctaUrl": "https://calendar.app.google/n2paHL9uFyRtexAa8",
+                "isCtaActive": true,
+                "brandColor": "#30005f",
+                "badgeText": "Hey!",
+                "widgetType": "storie_rectangle",
+                "ctaText": "Converse com a gente",
+                "status": "ACTIVE",
+                "isBadge": true,
+                "videos": [
+                    "https://media.vidy.store/vidcomerce/public/video-otimizado-hd/video-otimizado-hd.mp4"
+                ],
+                "collectionId": "home",
+                "instanceId": "2549c73e-4c0b-476e-b7b4-ldklei343j45j",
+                "nameCollection": "Página Principal",
+                "urlPage": "https://vidy.store"
+            }
+        },
+        {
+            "date": "2026-09-13T17:22:41.336Z",
+            "collection": {
+                "collectionId": "produtos",
+                "createdAt": "2026-08-28T02:16:21.570Z",
+                "highlightText": "",
+                "instanceId": "9d35480b-c186-46b6-b065-627f5efcabe4",
+                "urlPage": "https://lojademo273.lojavirtualnuvem.com.br/produtos/",
+                "actionsButtons": {
+                    "features": [
+                        "ShowPriceOnVideos",
+                        "Like",
+                        "Share",
+                        "Comments"
+                    ],
+                    "whatsapp": "",
+                    "whatsappLink": "",
+                    "whatsappText": "Olá! tudo bem? Vi um vídeo no site e quero saber mais."
+                },
+                "state": {
+                    "currentIndex": 0,
+                    "stories": [
+                        {
+                            "key": "6de04489-f13f-4862-8130-078fc1fdc679",
+                            "media": {
+                                "videoId": "6de04489-f13f-4862-8130-078fc1fdc679",
+                                "thumbnailLoading": "https://cdn.vidy.store/6de04489-f13f-4862-8130-078fc1fdc679/thumbnail.jpg",
+                                "gifs": [
+                                    "https://cdn.vidy.store/6de04489-f13f-4862-8130-078fc1fdc679/preview.webp"
+                                ],
+                                "videos": [
+                                    "https://media.vidy.store/vidcomerce/public/video-otimizado-hd/video-otimizado-hd.mp4"
+                                ]
+                            },
+                            "status": "ACTIVE",
+                            "completed": false
+                        },
+                        {
+                            "key": "9ed5ef1d-08d8-4f87-8035-26b46f425e83",
+                            "media": {
+                                "videoId": "9ed5ef1d-08d8-4f87-8035-26b46f425e83",
+                                "thumbnailLoading": "https://cdn.vidy.store/9ed5ef1d-08d8-4f87-8035-26b46f425e83/thumbnail.jpg",
+                                "gifs": [
+                                    "https://cdn.vidy.store/9ed5ef1d-08d8-4f87-8035-26b46f425e83/preview.webp"
+                                ],
+                                "videos": [
+                                    "https://media.vidy.store/vidcomerce/public/video-otimizado-hd/video-otimizado-hd.mp4"
+                                ]
+                            },
+                            "status": "ACTIVE",
+                            "completed": false
+                        }
+                    ]
+                },
+                "locations": [],
+                "status": "ACTIVE",
+                "customStyleTemplate": {
+                    "model": "circle",
+                    "primaryColor": "#000000ff",
+                    "secondaryColor": "#ffffff",
+                    "storieCloseColor": "#000000ff",
+                    "storieColor": "noBorder",
+                    "storieSize": "Small"
+                },
+                "nameCollection": "Categorias",
+                "date": "2026-08-28T02:16:21.570Z",
+                "analytics": [],
+                "position": {
+                    "direction": "SUPERIOR_LEFT",
+                    "directionMobile": "INFERIOR_RIGHT",
+                    "marginX": 36.05,
+                    "marginXMobile": 24,
+                    "marginY": 8.81,
+                    "marginYMobile": 32
+                },
+                "widgetType": "storie"
+            }
+        },
+        {
+            "date": "2026-09-13T17:24:03.104Z",
+            "collection": {
+                "collectionId": "product_example",
+                "instanceId": "2549c73e-4c0b-476e-b7b4-22c8f6eac8e0",
+                "nameCollection": "Produto Exemplo",
+                "urlPage": "https://lojademo273.lojavirtualnuvem.com.br/product/example",
+                "status": "ACTIVE",
+                "totalVideos": 3,
+                "createdAt": "2026-08-24T06:04:43.440Z",
+                "config": {
+                    "showLabels": true,
+                    "size": "LARGE",
+                    "storieColor": "DEFAULT",
+                    "customRingColor": null,
+                    "ringStyle": "SEGMENTED",
+                    "modifyUtm": true
+                },
+                "collections": [
+                    {
+                        "id": "circle-1787551436751-i3xrh",
+                        "username": "Frete",
+                        "avatar": "https://cdn.vidy.store/7889ffac-b487-4bca-abc7-fc5c9f90ee75/thumbnail.jpg",
+                        "timestamp": "2026-08-24T06:04:43.440Z",
+                        "stories": [
+                            {
+                                "id": "7889ffac-b487-4bca-abc7-fc5c9f90ee75",
+                                "type": "video",
+                                "src": "https://media.vidy.store/loja/public/Bolsa Pink Light/Bolsa Pink Light.mp4"
+                            },
+                            {
+                                "id": "9ed5ef1d-08d8-4f87-8035-26b46f425e83",
+                                "type": "video",
+                                "src": "https://media.vidy.store/loja/public/Video All Black Classico Business/Video All Black Classico Business.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "circle-1787551436751-bg2ta",
+                        "username": "Payments",
+                        "avatar": "https://cdn.vidy.store/9ed5ef1d-08d8-4f87-8035-26b46f425e83/thumbnail.jpg",
+                        "timestamp": "2026-08-24T06:04:43.440Z",
+                        "stories": [
+                            {
+                                "id": "9ed5ef1d-08d8-4f87-8035-26b46f425e83",
+                                "type": "video",
+                                "src": "https://media.vidy.store/loja/public/Video All Black Classico Business/Video All Black Classico Business.mp4"
+                            }
+                        ]
+                    }
+                ],
+                "widgetType": "highlights"
+            }
+        }
+    ]
+}
